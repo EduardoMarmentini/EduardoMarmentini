@@ -29,6 +29,4 @@
   <br>
 </div>
 
-![snake gif](https://github.com/eduardomarmentini/eduardomarmentini/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D93A7C&height=120&section=footer"/>
