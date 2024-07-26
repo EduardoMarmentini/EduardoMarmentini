@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eduardo Marmentini - GitHub Profile</title>
-</head>
-
-<body style="font-family: Arial, sans-serif; color: #a9fef7; text-align: center;">
+<body style="font-family: Arial, sans-serif; background-color: #0d1117; color: #a9fef7; text-align: center;">
 
   <div class="header" style="margin-top: 20px;">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=header" />
@@ -18,11 +9,11 @@
   </div>
 
   <div class="container" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 20px;">
-    <div class="stats-card" style="width: 49%; height: 195px; margin: 10px;">
+    <div class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117"
         alt="GitHub Stats" style="width: 100%; height: 100%;">
     </div>
-    <div class="stats-card" style="width: 49%; height: 195px; margin: 10px;">
+    <div class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117"
         alt="Top Languages" style="width: 100%; height: 100%;">
     </div>
