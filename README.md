@@ -1,6 +1,6 @@
 <div class="header" style="margin-top: 20px;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=header" />
-  <a href="https://git.io/typing-svg" target="_blank" style="display: block; margin-top: 10px;">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=A9FEF7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Marmentini;I+am+from+Brasil,+PR;Passionate+about+web+development!;Be+Welcome!+:%29">
   </a>
 </div>
@@ -12,7 +12,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=93FF27&sideLabels=A9FEF7&dates=A9FEF7)
 
 
-<div class="skills-section" style="margin-top: 20px;">
+<div class="skills-section">
   <h1 style="color: #a9fef7;">My Skills</h1>
   <h2 style="color: #a9fef7;">Front-End Development</h2>
   <div class="skills-list" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
@@ -54,7 +54,7 @@
   </div>
 </div>
 
-<div class="contact-section" style="margin-top: 20px;">
+<div class="contact-section">
   <h2 style="color: #a9fef7;">Contacts</h2>
   <div class="contact-links" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
     <a href="https://www.instagram.com/eduardo_marmentini" target="_blank" style="display: block;">
@@ -69,7 +69,6 @@
   </div>
 </div>
 
-<p style="color: #a9fef7;"><b>Visitors Count</b></p>
-<p><img align="center" src="https://profile-counter.glitch.me/{eduamarmentini}/count.svg" /></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=footer" />
 
