@@ -7,10 +7,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" height="150" alt="GitHub Stats">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="150" alt="Streak Stats" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" height="150" alt="Top Languages">
 </div>
 
+<div>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="200" alt="Streak Stats" /></p>
+</div>
 
 
 <div class="skills-section">
