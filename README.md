@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="150" width="1100" alt="Streak Stats" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="150" width="3000" alt="Streak Stats" /></p>
 </div>
 
 
