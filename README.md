@@ -5,8 +5,11 @@
   </a>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" alt="Top Languages">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardomarmentini&show_icons=true&locale=en&layout=compact" alt="eduardomarmentini" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&locale=en" alt="eduardomarmentini" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&" alt="eduardomarmentini" /></p>
 
 <div class="skills-section" style="margin-top: 20px;">
   <h1 style="color: #a9fef7;">My Skills</h1>
