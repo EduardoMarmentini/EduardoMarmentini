@@ -7,16 +7,14 @@
         style="width: 100%;">
     </a>
   </div>
-
-  <div class="container" style="display: flex; justify-content: center; margin-top: 50px;">
-    <div class="stats-card" style="margin-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
-    </div>
-    <div class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" alt="Top Languages">
-    </div>
-</div>
-
+  
+  <div class="stats-card" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
+  </div>
+  <div class="stats-card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" alt="Top Languages">
+  </div>
+  
   <div class="skills-section" style="margin-top: 20px;">
     <h1 style="color: #a9fef7;">My Skills</h1>
     <h2 style="color: #a9fef7;">Front-End Development</h2>
