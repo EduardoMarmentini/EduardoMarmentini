@@ -11,11 +11,11 @@
   <div class="container" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 20px;">
     <div class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117"
-        alt="GitHub Stats" style="width: 100%; height: 100%;">
+        alt="GitHub Stats">
     </div>
     <div class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117"
-        alt="Top Languages" style="width: 100%; height: 100%;">
+        alt="Top Languages">
     </div>
   </div>
 
