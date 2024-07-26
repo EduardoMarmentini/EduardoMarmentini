@@ -8,7 +8,7 @@
     </a>
   </div>
   
-  <div class="stats-card" style="margin-right: 10px;">
+  <div class="stats-card">
     <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
   </div>
   <div class="stats-card">
@@ -70,15 +70,23 @@
     </div>
   </div>
 
-  <div class="contact-section" style="margin-top: 20px;">
-    <h2 style="color: #a9fef7;">Contacts</h2>
-    <div class="contact-links" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
-      <a href="https://www.instagram.com/eduardo_marmentini" target="_blank" style="display: block;">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-          alt="Instagram">
+  <div class="contact-section">
+    <h2>Contacts</h2>
+    <div class="contact-links">
+      <a href="https://www.instagram.com/eduardo_marmentini" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
       </a>
-      <a href="mailto:eduardomarmentini.dev@gmail.com" target="_blank" style="display: block;">
+      <a href="mailto:eduardomarmentini.dev@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
       </a>
-      <a href="https://www.linkedin.com/in/eduardo-marmentini-741720231/" target="_blank" style="display: block;">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the
+      <a href="https://www.linkedin.com/in/eduardo-marmentini-741720231/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p><b>Visitors Count</b></p>
+    <p><img align="center" src="https://profile-counter.glitch.me/{eduamarmentini}/count.svg" /></p>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=footer" />
+  </div>
