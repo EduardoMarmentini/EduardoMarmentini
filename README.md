@@ -7,14 +7,8 @@
     </a>
   </div>
   
-  <div class="stats-container" style="display: flex; justify-content: center; margin-top: 20px; gap: 10px;">
-    <div class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
-    </div>
-    <div class="stats-card">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" alt="Top Languages">
-    </div>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" alt="Top Languages">
   
   <div class="skills-section" style="margin-top: 20px;">
     <h1 style="color: #a9fef7;">My Skills</h1>
@@ -73,9 +67,8 @@
     </div>
   </div>
 
-  <div class="footer" style="margin-top: 20px;">
-    <p style="color: #a9fef7;"><b>Visitors Count</b></p>
-    <p><img align="center" src="https://profile-counter.glitch.me/{eduamarmentini}/count.svg" /></p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=footer" />
-  </div>
+  <p style="color: #a9fef7;"><b>Visitors Count</b></p>
+  <p><img align="center" src="https://profile-counter.glitch.me/{eduamarmentini}/count.svg" /></p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=footer" />
+  
 </body>
