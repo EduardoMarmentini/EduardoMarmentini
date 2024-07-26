@@ -8,7 +8,7 @@
     </a>
   </div>
 
-  <div class="container" style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 50px;">
+  <div class="container" style="display: flex; flex-direction: row; justify-content: center; margin-top: 50px;">
     <div class="stats-card">
       <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117"
         alt="GitHub Stats">
