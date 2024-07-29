@@ -1,16 +1,16 @@
 <div class="header" style="margin-top: 20px;">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C26DF&height=120&section=header" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=A9FEF7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Eduardo+Marmentini;I+am+from+Brasil,+PR;Passionate+about+Full-stack+development!;Be+Welcome!+:%29">
   </a>
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=93FF27&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="200" alt="Streak Stats" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomarmentini&hide_border=true&background=0d1117&stroke=A9FEF7&ring=2C26DF&fire=F7D849&currStreakNum=A9FEF7&sideNums=A9FEF7&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=A9FEF7" height="200" alt="Streak Stats" /></p>
 </div>
 
 <div align="center" style="margin-top:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=93FF27&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" height="150" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardomarmentini&show_icons=true&count_private=true&hide_border=true&title_color=2C26DF&icon_color=F7D849&text_color=A9FEF7&bg_color=0d1117" height="150" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomarmentini&layout=compact&hide_border=true&title_color=A9FEF7&text_color=A9FEF7&bg_color=0d1117" height="150" alt="Top Languages">
 </div>
 
@@ -60,17 +60,15 @@
   <h2 style="color: #a9fef7;">Contacts</h2>
   <div class="contact-links" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
     <a href="https://www.instagram.com/eduardo_marmentini" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-%232C26DF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="mailto:eduardomarmentini.dev@gmail.com" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/-Gmail-%232C26DF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eduardo-marmentini-741720231/" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-%232C26DF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
 </div>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=93FF27&height=120&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C26DF&height=
