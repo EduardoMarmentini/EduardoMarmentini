@@ -60,13 +60,13 @@
   <h2 style="color: #a9fef7;">Contacts</h2>
   <div class="contact-links" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 10px;">
     <a href="https://www.instagram.com/eduardo_marmentini" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-Instagram-%232C26DF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-%CB007E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="mailto:eduardomarmentini.dev@gmail.com" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-Gmail-%232C26DF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/-Gmail-%F54336?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/eduardo-marmentini-741720231/" target="_blank" style="display: block;">
-      <img src="https://img.shields.io/badge/-LinkedIn-%232C26DF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-%007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
 </div>
